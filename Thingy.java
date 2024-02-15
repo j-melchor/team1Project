@@ -3,6 +3,11 @@ class Thingy {
         System.out.println("Hello, World!");
 
         System.out.println("Hello, World!");
-        System.out.println("hi");
+        System.out.println("bye world");
+        method();
+    }
+
+    public static void method(){
+        System.out.println("Hello, World!");
     }
 }
